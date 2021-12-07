@@ -3,7 +3,7 @@
 cp -R ../personal-website/_site/* .
 rm token.txt
 
-sed -i 's/localhost\:4000/https\:\/\/damien\-marion\.github\.io/g' $(find . -type f)
+sed -i 's/http:\/\/localhost:4000/https:\/\/damien\-marion\.github\.io/g' $(find . -type f)
 
 
 ## to add to index.html
@@ -15,3 +15,7 @@ sed -i 's/localhost\:4000/https\:\/\/damien\-marion\.github\.io/g' $(find . -typ
 
 #   gtag('config', 'G-X6T51CN3BH');
 # </script>
+
+## and set in README.md
+## forked from [BDHU/minimalist])(https://github.com/BDHU/minimalist) and inspired by
+## [gykovacs's tutorial](https://gykovacsblog.wordpress.com/tag/jekyll-scholar/)
