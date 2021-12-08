@@ -18,3 +18,6 @@ sed -i 's/http:\/\/localhost:4000/https:\/\/damien\-marion\.github\.io/g' $(find
 ## and set in README.md
 ## forked from [BDHU/minimalist])(https://github.com/BDHU/minimalist) and inspired by
 ## [gykovacs's tutorial](https://gykovacsblog.wordpress.com/tag/jekyll-scholar/)
+
+## commented the line <ol class="bibliography"><li> just before the PhD description
+## in index.html
