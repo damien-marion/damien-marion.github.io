@@ -140,15 +140,17 @@ hvr -> hover
 */
 :root { --code-d14:    #d14; --code-aa0000: #aa0000; --code-990000: #990000; --code-009999: #009999; --code-008080: #008080; --code-3c5d5d: #3c5d5d; --code-009926: #009926; --code-990073: #990073; --code-800080: #800080; --code-445588: #445588; --code-000080: #000080; --code-aaaaaa: #aaaaaa; --code-999999: #999999; --code-888888: #888888; --code-555555: #555555; }
 
-.button0 { background-color: #2A99D2; border: none; color: black; padding: 4px 8px; text-align: center; text-decoration: none; display: inline-block; font-size: 10px; font-weight: bold; margin: 2px 1px; cursor: pointer; border-radius: 5px; }
+.button0 { background-color: #2A99D2; border: none; color: black; padding: 4px 8px; text-align: center; text-decoration: none; display: inline-block; font-size: 10px; font-weight: bold; margin: 2px 1px 10px; cursor: pointer; border-radius: 5px; }
 
-.button1 { background-color: #68A5C4; border: none; color: black; padding: 4px 8px; text-align: center; text-decoration: none; display: inline-block; font-size: 10px; font-weight: bold; margin: 2px 1px; cursor: pointer; border-radius: 5px; }
+.button1 { background-color: #68A5C4; border: none; color: black; padding: 4px 8px; text-align: center; text-decoration: none; display: inline-block; font-size: 10px; font-weight: bold; margin: 2px 1px 10px; cursor: pointer; border-radius: 5px; }
 
-.button2 { background-color: #B3B3B3; border: none; color: black; padding: 4px 8px; text-align: center; text-decoration: none; display: inline-block; font-size: 10px; font-weight: bold; margin: 2px 1px; cursor: pointer; border-radius: 5px; }
+.button2 { background-color: #B3B3B3; border: none; color: black; padding: 4px 8px; text-align: center; text-decoration: none; display: inline-block; font-size: 10px; font-weight: bold; margin: 2px 1px 10px; cursor: pointer; border-radius: 5px; }
 
 body { background-color: var(--clr-bg); padding: 50px; font: 15px/1.5 "Noto Sans", "Helvetica Neue", Helvetica, Arial, sans-serif; color: var(--clr-text); font-weight: 400; }
 
-h1, h2, h3, h4, h5, h6 { color: var(--clr-h1-and-bold); margin: 0 0 20px; }
+h1, h2, h3, h5, h6 { color: var(--clr-h1-and-bold); margin: 0 0 20px; }
+
+h4 { color: var(--clr-h1-and-bold); margin: 0 0 1px; }
 
 p, ul, ol, table, pre, dl { margin: 0 0 20px; }
 
