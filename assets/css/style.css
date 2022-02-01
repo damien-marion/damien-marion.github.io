@@ -146,6 +146,8 @@ hvr -> hover
 
 .button2 { background-color: #B3B3B3; border: none; color: black; padding: 4px 8px; text-align: center; text-decoration: none; display: inline-block; font-size: 10px; font-weight: bold; margin: 2px 1px 10px; cursor: pointer; border-radius: 5px; }
 
+.nobutton { background: url("pdf.png") no-repeat; }
+
 body { background-color: var(--clr-bg); padding: 50px; font: 15px/1.5 "Noto Sans", "Helvetica Neue", Helvetica, Arial, sans-serif; color: var(--clr-text); font-weight: 400; }
 
 h1, h2, h3, h5, h6 { color: var(--clr-h1-and-bold); margin: 0 0 20px; }
