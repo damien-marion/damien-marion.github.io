@@ -2,6 +2,26 @@
 <urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 <url>
 <loc>https://damien-marion.github.io/</loc>
-<lastmod>2022-03-21T12:41:23+01:00</lastmod>
+<lastmod>2022-07-01T13:44:14+02:00</lastmod>
+</url>
+<url>
+<loc>https://damien-marion.github.io/assets/pdf/BBF+18.pdf</loc>
+<lastmod>2020-10-02T10:49:08+02:00</lastmod>
+</url>
+<url>
+<loc>https://damien-marion.github.io/assets/pdf/BGH+17.pdf</loc>
+<lastmod>2020-10-02T10:49:08+02:00</lastmod>
+</url>
+<url>
+<loc>https://damien-marion.github.io/assets/pdf/CIM+15.pdf</loc>
+<lastmod>2020-10-02T10:49:08+02:00</lastmod>
+</url>
+<url>
+<loc>https://damien-marion.github.io/assets/pdf/FGL+18.pdf</loc>
+<lastmod>2022-07-05T10:52:46+02:00</lastmod>
+</url>
+<url>
+<loc>https://damien-marion.github.io/assets/pdf/GMN+13.pdf</loc>
+<lastmod>2020-10-02T10:49:08+02:00</lastmod>
 </url>
 </urlset>
