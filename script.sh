@@ -6,6 +6,12 @@ sed -i 's/http:\/\/localhost:4000/https:\/\/damien\-marion\.github\.io/g' $(find
 
 
 ## to add to index.html
+
+# <!-- Clicky analytics --> 
+# <script async data-id="101493374" src="//static.getclicky.com/js"></script>
+
+
+
 # <script async src="https://www.googletagmanager.com/gtag/js?id=G-X6T51CN3BH"></script>
 # <script>
 #   window.dataLayer = window.dataLayer || [];
